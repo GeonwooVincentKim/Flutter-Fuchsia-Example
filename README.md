@@ -24,6 +24,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## How to execute this project on Fushcia-OS
 
+- [Monolithic Kernel and Micro-Kernel](https://selfish-developer.com/entry/%EB%AA%A8%EB%86%80%EB%A6%AC%EC%8B%9DMonolithic-kernel%EA%B3%BC-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9CMicro-%EC%BB%A4%EB%84%90)
 - [Download the Fuchsia Source Code](https://fuchsia.dev/fuchsia-src/get-started/get_fuchsia_source)
 - [Get Start with Fuchsia](https://fuchsia.dev/fuchsia-src/get-started)
 - [Third Party Issue](https://fuchsia.dev/fuchsia-src/development/languages/dart/third_party)
