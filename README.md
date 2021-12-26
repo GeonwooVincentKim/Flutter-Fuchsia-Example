@@ -1,6 +1,8 @@
 # flutter_fuchsia_first_app
 
-A new Flutter project.
+- A new Flutter project.
+
+- First Fuchsia Example project with Flutter
 
 ## Getting Started
 
