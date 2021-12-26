@@ -25,3 +25,8 @@ samples, guidance on mobile development, and a full API reference.
 ## How to execute this project on Fushcia-OS
 
 - [Download the Fuchsia Source Code](https://fuchsia.dev/fuchsia-src/get-started/get_fuchsia_source)
+- [Get Start with Fuchsia](https://fuchsia.dev/fuchsia-src/get-started)
+- [Third Party Issue](https://fuchsia.dev/fuchsia-src/development/languages/dart/third_party)
+- [FIDL Dart Packages](https://fuchsia.dev/fuchsia-src/development/languages/fidl/tutorials/dart/basics/using-fidl#add-dependency)
+- [IDEs for Dart in Fuchsia](https://fuchsia.dev/fuchsia-src/development/languages/dart/ides)
+- [Fuchsia with Dart](https://fuchsia.googlesource.com/fuchsia/+/refs/heads/main/docs/development/languages/dart/README.md)
