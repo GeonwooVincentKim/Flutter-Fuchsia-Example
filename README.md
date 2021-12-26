@@ -20,6 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 ### Deeper way to solve Flutter not working issue
 
 - [Android SDK Command-Line Install](https://stackoverflow.com/questions/68236007/i-am-getting-this-errors-cmdline-tools-component-is-missing-after-installing-f)
+- [Activate DevTools](https://stackoverflow.com/questions/70429102/invalid-arguments-a-directory-corresponding-to-filesystempath-users-user-pub)
 
 ## How to execute this project on Fushcia-OS
 
